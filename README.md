@@ -12,7 +12,6 @@
   <h3 align="center">ESCAPE THE RUNNING ZOMBIE (GAME)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/fmachadoweb/escapetherunningzombie"><strong>Explore the docs »</strong></a>
     <br />
