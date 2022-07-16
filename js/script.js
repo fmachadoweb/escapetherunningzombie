@@ -1,3 +1,7 @@
+    /* Created By Fernando Machado
+    My github: https://github.com/fmachadoweb
+    */
+
 const man = document.querySelector('.man');
 const zombie = document.querySelector('.zombie');
 
