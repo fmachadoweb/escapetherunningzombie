@@ -1,4 +1,4 @@
-    /* Created By Fernando Machado
+/* Created By Fernando Machado
     My github: https://github.com/fmachadoweb
     */
 
@@ -43,4 +43,3 @@ const loop = setInterval(() => {
 }, 10);
 
 document.addEventListener('keydown', jump);
-
