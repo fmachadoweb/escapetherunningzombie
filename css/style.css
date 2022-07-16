@@ -12,6 +12,10 @@ span {
     font-family: 'Press Start 2P', cursive;
 }
 
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
 h1 {
     font-size: 40px;
 }
